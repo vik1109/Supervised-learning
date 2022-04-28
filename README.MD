@@ -48,3 +48,6 @@ Exited — факт ухода клиента
 
 V.2 Polinomial Features Logistic Regression
 Добавлено полиномиальное преобразование признаков. Обучена модель LogisticRegression. Качество модели заметно улучшилось, но модель RandomForest все еще имеет более высокое качество.
+
+V.3 GradientBoostingClassifier
+Добавлен GradientBoostingClassifier.
